@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+.idea/
+.venv/
+venv/
+gallery.db
+thumbnails/
+.DS_Store
