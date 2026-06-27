@@ -51,8 +51,10 @@ StreamLitApp/
 ```bash
 git clone https://github.com/your-username/project-render-gallery.git
 cd project-render-gallery
+
 2. Install dependencies
 pip install -r requirements.txt
+
 3. (Optional) Generate sample data
 python gen_test_images.py
 
@@ -74,6 +76,7 @@ Images are processed using Pillow to generate lightweight thumbnails for faster 
 All project and image metadata is stored in a local SQLite database for quick querying.
 
 4. Web Interface
+```
 
 Streamlit provides a simple gallery UI where users can:
 
