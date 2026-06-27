@@ -19,17 +19,6 @@ The app automatically scans project directories, generates thumbnails, stores me
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here after running the app_
-
-
-/screenshots/gallery.png
-/screenshots/fullscreen.png
-
-
----
-
 ## 🧱 Project Structure
 
 
@@ -118,6 +107,8 @@ Quickly browse past design projects
 Reuse existing design work
 Replace manual folder navigation with a visual system
 Centralize image indexing into a searchable interface
+
+
 🔮 Future Improvements
 Incremental scanning (only new/changed files)
 Authentication system for internal access
